@@ -30,8 +30,19 @@ body {
   background-color: white;
 }
 
+main h2 {
+  opacity: 0.4;
+  font-size: 18px;
+  margin-top: 30px;
+}
+main h3 {
+  font-size: 30px;
+  margin: 15px 0;
+}
+
 main p {
   padding-right: 10px;
+  opacity: 0.8;
 }
 
 .grid-3-columns {
