@@ -65,6 +65,15 @@ header a {
   text-transform: uppercase;
   background: white;
 }
+
+.img-responsive {
+  max-width: 100%;
+}
+
+.grid-2-columns {
+  grid-template-columns: 1fr 1fr;
+}
+
 footer {
   color: white;
   background-image: linear-gradient(
