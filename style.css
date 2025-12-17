@@ -28,6 +28,7 @@ body {
 .grid-2-columns {
   grid-template-columns: 1fr 1fr;
   background-color: white;
+  padding-bottom: 20px;
 }
 
 main h2 {
