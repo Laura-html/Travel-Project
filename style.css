@@ -50,6 +50,10 @@ main p {
   padding-right: 10px;
   opacity: 0.8;
 }
+main a {
+  text-decoration: none;
+  opacity: 0.4;
+}
 
 .grid-3-columns {
   grid-template-columns: 1fr 1fr 1fr;
